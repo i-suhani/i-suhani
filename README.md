@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suhani</h1>
-<h3 align="center">B.Tech CSE Student | Cybersecurity Enthusiast | Curious Builder</h3>
+<h1 >Hi, I'm Suhani</h1>
+<h3 >B.Tech CSE Student | Cybersecurity Enthusiast | Curious Builder</h3>
 
-<p align="center">
-  🌱 Learning by building <br>
-  🛡️ Security-minded developer <br>
-  📊 Loves clean logic & simple explanations
-</p>
+--
 
----
-
-## 🌸 About Me
+##  About Me
 
 ✨ I'm a **Computer Science Engineering undergraduate** who enjoys breaking problems down into **simple, beginner-friendly logic**.  
 ✨ I strongly believe **clarity > complexity** — both in code and explanations.  
@@ -19,7 +13,7 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 
 ---
 
-## 🔐 Cybersecurity Journey
+##  Cybersecurity Journey
 
 🛡️ **Cybersecurity Intern — IIT Jammu**  
 - Explored core concepts of **network security & system security**
@@ -31,12 +25,12 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 
 ## 💻 Technical Skills
 
-### 👩‍💻 Programming Languages
+###  Programming Languages
 - **C / C++** – OOP, classes, inheritance, operator overloading  
 - **Python** – file handling, simulations, algorithms  
 - **SQL & PL/SQL** – joins, constraints, queries, procedures  
 
-### 🧠 Core CS Concepts
+### Core CS Concepts
 - Data Structures & Algorithms  
   - Linked Lists, Recursion, Sorting  
   - DFS, BFS, Topological Sort  
@@ -48,16 +42,15 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 
 ## 📊 Simulations & Projects
 
-### 🚰 Smart Water Distribution System (SimPy)
+###  Smart Water Distribution System (SimPy)
 - Peak hour handling  
 - Grey water reuse  
 - Leakage detection & management  
 - Underflow/overflow control  
 - Consumer-specific data tracking  
 - Graph-based visualizations  
-- Integrated with a **Three.js-based website**
 
-### 🛡️ Cybersecurity Attack & Defense Simulation
+###  Cybersecurity Attack & Defense Simulation
 - Modeled attacker & defender behavior
 - Focused on system resilience & detection logic
 
@@ -73,12 +66,6 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 
 ## 🏆 Experiences & Activities
 
-- 🧠 **Smart India Hackathon (SIH)** participant  
-- 📈 #150DaysLevelUp challenge (DSA consistency grind)  
-- 📚 Continuous learner in algorithms & systems  
-
----
-
-<p align="center">
-  🌷 “Still learning. Still building. Still curious.” 🌷
-</p>
+-  **Smart India Hackathon (SIH)** participant  
+-  #150DaysLevelUp challenge (DSA consistency grind)  
+-  Continuous learner in algorithms & systems  
