@@ -1,5 +1,5 @@
 <h1 >Hi, I'm Suhani</h1>
-<h3 >B.Tech CSE Student | Cybersecurity Enthusiast | Curious Builder</h3>
+<h3 >B.Tech CSE Student | Cybersecurity Enthusiast </h3>
 
 --
 
