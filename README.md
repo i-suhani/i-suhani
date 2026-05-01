@@ -42,24 +42,11 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 
 ## 📊 Simulations & Projects
 
-###  Smart Water Distribution System (SimPy)
-- Peak hour handling  
-- Grey water reuse  
-- Leakage detection & management  
-- Underflow/overflow control  
-- Consumer-specific data tracking  
-- Graph-based visualizations  
-
 ###  Cybersecurity Attack & Defense Simulation
 - Modeled attacker & defender behavior
 - Focused on system resilience & detection logic
 
 ---
-
-## 🎨 Design & UI
-
-- Revamping **personal website UI**
-- Using **Figma** for layout & visual improvements
 - Integrating simulations with **interactive 3D visuals**
 
 ---
@@ -67,5 +54,4 @@ I’ve worked across **DSA, Python, C++, SQL, and simulations**, with a growing 
 ## 🏆 Experiences & Activities
 
 -  **Smart India Hackathon (SIH)** participant  
--  #150DaysLevelUp challenge (DSA consistency grind)  
 -  Continuous learner in algorithms & systems  
